@@ -17,7 +17,6 @@ for (let i = 0; i < navElemArr.length; i++) {
 
 
 
-
 /**
  * toggle navbar when click any navbar link
  */
